@@ -25,8 +25,8 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
+   git clone https:https://github.com/akhiltiwari12/Quiz-Application.git
+   cd Quiz-Application
    ```
 
 2. Install dependencies:
